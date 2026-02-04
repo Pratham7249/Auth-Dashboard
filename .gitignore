@@ -1,0 +1,9 @@
+node_modules/
+dist/
+build/
+.env
+.env.local
+mongo_data/
+.DS_Store
+coverage/
+.vscode/

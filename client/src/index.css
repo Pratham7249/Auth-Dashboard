@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  /* Updated to fit Yellow/White theme: warmer background */
+  @apply bg-orange-50/30 text-slate-900;
+}
